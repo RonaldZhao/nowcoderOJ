@@ -1,2 +1,7 @@
-# nowcoderOJ
-牛客网OJ解决 Python
+# 牛客网OJ——Python2.7/3.6解决
+
+>PAT乙级(Basic Level)真题
+
+|标号|标题|py27版|py36版|
+|:---:|:---:|:---:|:---:|
+|#1001|A+B和C|[GO](PAT乙级真题/py27/1001.py)|[GO](PAT乙级真题/py36/1001.py)|
